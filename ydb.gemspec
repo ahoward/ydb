@@ -6,7 +6,7 @@ Gem::Specification::new do |spec|
   spec.version = "0.0.1"
   spec.platform = Gem::Platform::RUBY
   spec.summary = "ydb"
-  spec.description = "description: ydb kicks the ass"
+  spec.description = "mo-betta the yaml/store."
 
   spec.files =
 ["README", "Rakefile", "lib", "lib/ydb.rb"]
